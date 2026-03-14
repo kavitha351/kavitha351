@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Kavitha
 Currently working on automating cloud infrastructure and CI/CD pipelines using AWS, Terraform, Ansible, Docker, Kubernetes, and Jenkins through real-world DevOps projects.
 
 
