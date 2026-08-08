@@ -1,6 +1,7 @@
 # 💫 Kavitha
 Currently working on automating cloud infrastructure and CI/CD pipelines using AWS, Terraform, Ansible, Docker, Kubernetes, and Jenkins through real-world DevOps projects.
 
+![](https://komarev.com/ghpvc/?username=kavitha351)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kavitha-kumari-65016a272/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kavithakumari351@gmail.com) [![portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=linkedin&logoColor=white)](https://kabitha-sharma.onrender.com/)
